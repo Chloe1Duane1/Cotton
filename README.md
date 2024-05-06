@@ -4,5 +4,7 @@ In this research, a machine learning model is developed using picture data to ca
 The program predicts cotton leaf health accurately by utilizing texture and color data.
 
 
-INSTALL
+# INSTALL
+
+git clone https://github.com/Chloe1Duane1/Cotton.git cd Cotton
 
